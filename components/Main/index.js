@@ -60,7 +60,42 @@ export default function index() {
                           </span>
                           <h2>
                             <a
-                              href="latest_news.html"
+                              href=""
+                              data-animation="fadeInUp"
+                              data-delay=".4s"
+                              data-duration="1000ms"
+                            >
+                              Nous avons vecu la Gloire de Dieu et Nous avons
+                              Reçu beacoup de temoignage
+                            </a>
+                          </h2>
+                          <p
+                            data-animation="fadeInUp"
+                            data-delay=".6s"
+                            data-duration="1000ms"
+                          >
+                            Dimanche 11/4/2021
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-slider">
+                    <div className="trending-top mb-30">
+                      <div className="trend-top-img">
+                        <img src="img/trending/IMG1.jpg" alt="" />
+                        <div className="trend-top-cap">
+                          <span
+                            className="bgr"
+                            data-animation="fadeInUp"
+                            data-delay=".2s"
+                            data-duration="1000ms"
+                          >
+                            Dimanche
+                          </span>
+                          <h2>
+                            <a
+                              href=""
                               data-animation="fadeInUp"
                               data-delay=".4s"
                               data-duration="1000ms"
@@ -96,7 +131,7 @@ export default function index() {
                           </span>
                           <h2>
                             <a
-                              href="latest_news.html"
+                              href=""
                               data-animation="fadeInUp"
                               data-delay=".4s"
                               data-duration="1000ms"
@@ -128,8 +163,8 @@ export default function index() {
                         <div className="trend-top-cap trend-top-cap2">
                           <span className="bgb">Samedi</span>
                           <h2>
-                            <a href="latest_news.html">
-                              Les Femmes des priere s'eleve pour prie Dieu
+                            <a href="">
+                              Les Femmes des prieres s'eleve pour prie Dieu
                             </a>
                           </h2>
                           <p>Chaque Samedi 08h30 à 9h45</p>
@@ -144,9 +179,7 @@ export default function index() {
                         <div className="trend-top-cap trend-top-cap2">
                           <span className="bgg">SAMEDI</span>
                           <h2>
-                            <a href="latest_news.html">
-                              Réunion de la jeunesse
-                            </a>
+                            <a href="">Réunion de la jeunesse</a>
                           </h2>
                           <p>chaque samedi à 16h00 </p>
                         </div>
@@ -258,9 +291,7 @@ export default function index() {
                               </div>
                               <div className="whates-caption">
                                 <h4>
-                                  <a href="latest_news.html">
-                                    Mon temoignage dela conversion
-                                  </a>
+                                  <a href="">Mon temoignage dela conversion</a>
                                 </h4>
                                 <span>le 22/4/2005</span>
                                 <p>
@@ -283,7 +314,7 @@ export default function index() {
                                   <div className="whats-right-cap">
                                     <span className="colorb">la paix </span>
                                     <h4>
-                                      <a href="latest_news.html">
+                                      <a href="">
                                         jesus-christ donne la paix eternel.
                                       </a>
                                     </h4>
@@ -298,7 +329,7 @@ export default function index() {
                                   <div className="whats-right-cap">
                                     <span className="colorb">La vie </span>
                                     <h4>
-                                      <a href="latest_news.html">
+                                      <a href="">
                                         Nous avons la vie eternel dans la mort
                                         et ressurection.
                                       </a>
@@ -314,7 +345,7 @@ export default function index() {
                                   <div className="whats-right-cap">
                                     <span className="colorg"></span>
                                     <h4>
-                                      <a href="latest_news.html">
+                                      <a href="">
                                         La Bonne Santé Jesus-christ guerrie de
                                         tous les maladies.
                                       </a>
@@ -330,7 +361,7 @@ export default function index() {
                                   <div className="whats-right-cap">
                                     <span className="colorr">La Richesse</span>
                                     <h4>
-                                      <a href="latest_news.html">
+                                      <a href="">
                                         jesus-christ donne sa richesse à ses
                                         fils et filles .
                                       </a>
@@ -600,7 +631,7 @@ export default function index() {
                                   <div className="whats-right-cap">
                                     <span className="colorr">la priere</span>
                                     <h4>
-                                      <a href="latest_news.html">
+                                      <a href="">
                                         la priere me permet de garde la
                                         communion avec Dieu.
                                       </a>
@@ -706,25 +737,25 @@ export default function index() {
                   <div className="follow-us d-flex align-items-center">
                     <div className="follow-social"></div>
                     <div className="follow-count">
-                      <h3>La Paix</h3>
+                      <h3>Paix</h3>
                     </div>
                   </div>
                   <div className="follow-us d-flex align-items-center">
                     <div className="follow-social"></div>
                     <div className="follow-count">
-                      <h3>La vie</h3>
+                      <h3>vie</h3>
                     </div>
                   </div>
                   <div className="follow-us d-flex align-items-center">
                     <div className="follow-social"></div>
                     <div className="follow-count">
-                      <h3>La Joie</h3>
+                      <h3>Joie</h3>
                     </div>
                   </div>
                   <div className="follow-us d-flex align-items-center">
                     <div className="follow-social"></div>
                     <div className="follow-count">
-                      <h3>La Grace</h3>
+                      <h3>Grace</h3>
                     </div>
                   </div>
                 </div>
@@ -839,23 +870,6 @@ export default function index() {
         </div>
       </div>
 
-      <div className="recent-articles pt-80 pb-80">
-        <div className="container">
-          <div className="recent-wrapper">
-            <div className="row">
-              <div className="col-lg-12">
-                <div className="section-tittle mb-30">
-                  <h3>Nos Culte</h3>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-12"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-
       <div className="youtube-area video-padding d-none d-sm-block">
         <div className="container">
           <div className="row">
@@ -928,6 +942,7 @@ export default function index() {
                 <div className="slider-wrapper">
                   <div className="row">
                     <div className="col-lg-12">
+                      <h2>Nos culte</h2>
                       <div className="weekly3-news-active dot-style d-flex">
                         <div className="weekly3-single">
                           <div className="weekly3-img">
