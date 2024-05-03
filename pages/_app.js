@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     
     <>
-    
+  
       <Head>
         <meta charSet="utf-8" />
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
