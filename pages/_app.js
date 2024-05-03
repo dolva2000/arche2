@@ -3,6 +3,7 @@ import Layout from "../components/layouts";
 
 function MyApp({ Component, pageProps }) {
   return (
+    
     <>
     
       <Head>
